@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8" style="background-color:black; height: 200px;">
+                <h1 style="font-size: 60px; color: white;">Event <br> Proposal</h1>
+            </div>
+            <div class="col-sm-4" style="background-color:black;">
+                <img src="https://www.shutterstock.com/image-vector/office-workers-corporate-dress-vector-260nw-1411389014.jpg" alt="" height="200px" width="210px" class="img-circle" style="border: 5px solid red">
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h3>Event Overview</h3>
+        <table class="table table-bordered" style="border: 2px solid black;">
+            <tbody>
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+
+                <tr>
+                    <td style="background-color: aqua;">Rupesh</td>
+                    <td>Prajapati</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+        <div class="container">
+            <h2>Event Description</h2>
+            <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime odio accusantium reiciendis aperiam nisi sint cupiditate neque voluptates perspiciatis. Ut, veniam aut perspiciatis tenetur qui quisquam esse corrupti quis similique?</h4>
+            <h2>Objective</h2>
+            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quae esse eligendi tempore, id, nulla saepe repellendus ab magni voluptas at beatae deserunt obcaecati nobis perspiciatis sunt recusandae. Ratione, quasi!</h4>
+            <h2>Benefits</h2>
+            <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor unde molestias numquam sunt laboriosam, tempore voluptatum hic quis quia facere natus odit saepe repellendus. Vel nam iste sunt beatae ducimus!</h4>
+        </div>
+    
+</body>
+</html>
